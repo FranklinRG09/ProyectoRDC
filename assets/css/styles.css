@@ -1,0 +1,321 @@
+/* ===================================== */
+/* GENERAL */
+/* ===================================== */
+
+body{
+    margin:0;
+    font-family:Arial, Helvetica, sans-serif;
+    background:#f5f6fa;
+    overflow-x:hidden;
+}
+
+/* ===================================== */
+/* LAYOUT */
+/* ===================================== */
+
+.layout{
+    display:flex;
+    min-height:100vh;
+}
+
+/* ===================================== */
+/* RESET */
+/* ===================================== */
+
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+
+body{
+    font-family:
+        "Segoe UI",
+        sans-serif;
+
+    background:#f4f7fb;
+
+    overflow-x:hidden;
+
+    transition:0.3s;
+}
+
+/* ===================================== */
+/* SIDEBAR */
+/* ===================================== */
+
+.sidebar{
+
+    position:fixed;
+
+    top:0;
+    left:0;
+
+    width:280px;
+    height:100vh;
+
+    background:#ffffff;
+
+    padding:25px 20px;
+
+    transition:0.3s;
+
+    z-index:1000;
+
+    display:flex;
+    flex-direction:column;
+
+    border-right:1px solid #e5e7eb;
+
+    box-shadow:
+        0 0 25px rgba(
+            0,
+            0,
+            0,
+            0.04
+        );
+}
+
+.sidebar.collapsed{
+
+    width:90px;
+}
+
+/* HEADER */
+
+.sidebar-header{
+
+    display:flex;
+    align-items:center;
+
+    gap:15px;
+
+    margin-bottom:40px;
+}
+
+.logo-box{
+
+    width:55px;
+    height:55px;
+
+    border-radius:16px;
+
+    background:#3ec7a5;
+
+    display:flex;
+    justify-content:center;
+    align-items:center;
+
+    color:white;
+
+    font-size:24px;
+
+    flex-shrink:0;
+}
+
+.logo-title{
+
+    color:#111827;
+
+    font-size:22px;
+
+    font-weight:700;
+
+    margin:0;
+}
+
+.logo-subtitle{
+
+    color:#64748b;
+
+    margin:0;
+
+    font-size:14px;
+}
+
+/* MENU */
+
+.sidebar-menu{
+
+    display:flex;
+    flex-direction:column;
+
+    gap:12px;
+}
+
+.menu-link{
+
+    width:100%;
+
+    border:none;
+
+    background:transparent;
+
+    color:#475569;
+
+    padding:15px 18px;
+
+    border-radius:16px;
+
+    display:flex;
+    align-items:center;
+
+    gap:15px;
+
+    transition:0.3s;
+
+    font-size:16px;
+
+    text-align:left;
+
+    font-weight:500;
+}
+
+.menu-link i{
+
+    font-size:20px;
+}
+
+.menu-link:hover{
+
+    background:#f1f5f9;
+
+    color:#111827;
+}
+
+.menu-link.active{
+
+    background:#3ec7a5;
+
+    color:white;
+
+    box-shadow:
+        0 8px 18px rgba(
+            62,
+            199,
+            165,
+            0.25
+        );
+}
+
+/* COLLAPSED */
+
+.sidebar.collapsed .logo-title,
+.sidebar.collapsed .logo-subtitle,
+.sidebar.collapsed .menu-link span{
+
+    display:none;
+}
+
+.sidebar.collapsed .menu-link{
+
+    justify-content:center;
+}
+
+/* ===================================== */
+/* MAIN CONTENT */
+/* ===================================== */
+
+.main-content{
+
+    margin-left:280px;
+
+    min-height:100vh;
+
+    transition:0.3s;
+
+    background:#f4f7fb;
+}
+
+.main-content.expanded{
+
+    margin-left:90px;
+}
+
+/* ===================================== */
+/* TOPBAR */
+/* ===================================== */
+
+.topbar{
+
+    height:85px;
+
+    background:white;
+
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+
+    padding:0 30px;
+
+    border-bottom:1px solid #e5e7eb;
+}
+
+.topbar-left{
+
+    display:flex;
+    align-items:center;
+
+    gap:20px;
+}
+
+.toggle-btn{
+
+    width:45px;
+    height:45px;
+
+    border:none;
+
+    border-radius:12px;
+
+    background:#f3f4f6;
+
+    font-size:22px;
+
+    transition:0.3s;
+}
+
+.toggle-btn:hover{
+
+    background:#e5e7eb;
+}
+
+#pageTitle{
+
+    margin:0;
+
+    font-size:28px;
+
+    font-weight:700;
+
+    color:#111827;
+}
+
+/* CLOCK */
+
+.clock-container{
+
+    display:flex;
+    align-items:center;
+
+    gap:10px;
+
+    background:#f3f4f6;
+
+    padding:12px 18px;
+
+    border-radius:14px;
+
+    color:#374151;
+
+    font-weight:600;
+}
+
+/* ===================================== */
+/* CONTENT */
+/* ===================================== */
+
+.page-content{
+
+    padding:30px;
+}
