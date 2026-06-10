@@ -1,0 +1,302 @@
+[
+    {
+        "nombre":"Juan Perez",
+        "correo":"juan.perez1@gmail.com",
+        "contacto":"70000001",
+        "estado":"Activo"
+    },
+    {
+        "nombre":"Maria Lopez",
+        "correo":"maria.lopez2@gmail.com",
+        "contacto":"70000002",
+        "estado":"Inactivo"
+    },
+    {
+        "nombre":"Carlos Ramirez",
+        "correo":"carlos.ramirez3@gmail.com",
+        "contacto":"70000003",
+        "estado":"Activo"
+    },
+    {
+        "nombre":"Ana Martinez",
+        "correo":"ana.martinez4@gmail.com",
+        "contacto":"70000004",
+        "estado":"Activo"
+    },
+    {
+        "nombre":"Luis Gomez",
+        "correo":"luis.gomez5@gmail.com",
+        "contacto":"70000005",
+        "estado":"Inactivo"
+    },
+    {
+        "nombre":"Sofia Torres",
+        "correo":"sofia.torres6@gmail.com",
+        "contacto":"70000006",
+        "estado":"Activo"
+    },
+    {
+        "nombre":"Daniel Flores",
+        "correo":"daniel.flores7@gmail.com",
+        "contacto":"70000007",
+        "estado":"Activo"
+    },
+    {
+        "nombre":"Camila Ruiz",
+        "correo":"camila.ruiz8@gmail.com",
+        "contacto":"70000008",
+        "estado":"Inactivo"
+    },
+    {
+        "nombre":"Jose Hernandez",
+        "correo":"jose.hernandez9@gmail.com",
+        "contacto":"70000009",
+        "estado":"Activo"
+    },
+    {
+        "nombre":"Valeria Castro",
+        "correo":"valeria.castro10@gmail.com",
+        "contacto":"70000010",
+        "estado":"Activo"
+    },
+    {
+        "nombre":"Miguel Rivera",
+        "correo":"miguel.rivera11@gmail.com",
+        "contacto":"70000011",
+        "estado":"Inactivo"
+    },
+    {
+        "nombre":"Lucia Mendoza",
+        "correo":"lucia.mendoza12@gmail.com",
+        "contacto":"70000012",
+        "estado":"Activo"
+    },
+    {
+        "nombre":"Andres Vega",
+        "correo":"andres.vega13@gmail.com",
+        "contacto":"70000013",
+        "estado":"Activo"
+    },
+    {
+        "nombre":"Paula Morales",
+        "correo":"paula.morales14@gmail.com",
+        "contacto":"70000014",
+        "estado":"Inactivo"
+    },
+    {
+        "nombre":"Fernando Diaz",
+        "correo":"fernando.diaz15@gmail.com",
+        "contacto":"70000015",
+        "estado":"Activo"
+    },
+    {
+        "nombre":"Gabriela Ortiz",
+        "correo":"gabriela.ortiz16@gmail.com",
+        "contacto":"70000016",
+        "estado":"Activo"
+    },
+    {
+        "nombre":"Ricardo Silva",
+        "correo":"ricardo.silva17@gmail.com",
+        "contacto":"70000017",
+        "estado":"Inactivo"
+    },
+    {
+        "nombre":"Natalia Cruz",
+        "correo":"natalia.cruz18@gmail.com",
+        "contacto":"70000018",
+        "estado":"Activo"
+    },
+    {
+        "nombre":"Kevin Molina",
+        "correo":"kevin.molina19@gmail.com",
+        "contacto":"70000019",
+        "estado":"Activo"
+    },
+    {
+        "nombre":"Laura Reyes",
+        "correo":"laura.reyes20@gmail.com",
+        "contacto":"70000020",
+        "estado":"Inactivo"
+    },
+    {
+        "nombre":"Oscar Navarro",
+        "correo":"oscar.navarro21@gmail.com",
+        "contacto":"70000021",
+        "estado":"Activo"
+    },
+    {
+        "nombre":"Diana Salazar",
+        "correo":"diana.salazar22@gmail.com",
+        "contacto":"70000022",
+        "estado":"Activo"
+    },
+    {
+        "nombre":"Victor Ramos",
+        "correo":"victor.ramos23@gmail.com",
+        "contacto":"70000023",
+        "estado":"Inactivo"
+    },
+    {
+        "nombre":"Patricia Leon",
+        "correo":"patricia.leon24@gmail.com",
+        "contacto":"70000024",
+        "estado":"Activo"
+    },
+    {
+        "nombre":"Jorge Fuentes",
+        "correo":"jorge.fuentes25@gmail.com",
+        "contacto":"70000025",
+        "estado":"Activo"
+    },
+    {
+        "nombre":"Elena Rojas",
+        "correo":"elena.rojas26@gmail.com",
+        "contacto":"70000026",
+        "estado":"Inactivo"
+    },
+    {
+        "nombre":"Eduardo Campos",
+        "correo":"eduardo.campos27@gmail.com",
+        "contacto":"70000027",
+        "estado":"Activo"
+    },
+    {
+        "nombre":"Monica Herrera",
+        "correo":"monica.herrera28@gmail.com",
+        "contacto":"70000028",
+        "estado":"Activo"
+    },
+    {
+        "nombre":"Alejandro Soto",
+        "correo":"alejandro.soto29@gmail.com",
+        "contacto":"70000029",
+        "estado":"Inactivo"
+    },
+    {
+        "nombre":"Isabella Pineda",
+        "correo":"isabella.pineda30@gmail.com",
+        "contacto":"70000030",
+        "estado":"Activo"
+    },
+    {
+        "nombre":"Roberto Aguilar",
+        "correo":"roberto.aguilar31@gmail.com",
+        "contacto":"70000031",
+        "estado":"Activo"
+    },
+    {
+        "nombre":"Carolina Mejia",
+        "correo":"carolina.mejia32@gmail.com",
+        "contacto":"70000032",
+        "estado":"Inactivo"
+    },
+    {
+        "nombre":"Francisco Peña",
+        "correo":"francisco.pena33@gmail.com",
+        "contacto":"70000033",
+        "estado":"Activo"
+    },
+    {
+        "nombre":"Andrea Castillo",
+        "correo":"andrea.castillo34@gmail.com",
+        "contacto":"70000034",
+        "estado":"Activo"
+    },
+    {
+        "nombre":"Hector Vargas",
+        "correo":"hector.vargas35@gmail.com",
+        "contacto":"70000035",
+        "estado":"Inactivo"
+    },
+    {
+        "nombre":"Melissa Romero",
+        "correo":"melissa.romero36@gmail.com",
+        "contacto":"70000036",
+        "estado":"Activo"
+    },
+    {
+        "nombre":"Samuel Chavez",
+        "correo":"samuel.chavez37@gmail.com",
+        "contacto":"70000037",
+        "estado":"Activo"
+    },
+    {
+        "nombre":"Tatiana Escobar",
+        "correo":"tatiana.escobar38@gmail.com",
+        "contacto":"70000038",
+        "estado":"Inactivo"
+    },
+    {
+        "nombre":"Cristian Luna",
+        "correo":"cristian.luna39@gmail.com",
+        "contacto":"70000039",
+        "estado":"Activo"
+    },
+    {
+        "nombre":"Veronica Arias",
+        "correo":"veronica.arias40@gmail.com",
+        "contacto":"70000040",
+        "estado":"Activo"
+    },
+    {
+        "nombre":"Mauricio Delgado",
+        "correo":"mauricio.delgado41@gmail.com",
+        "contacto":"70000041",
+        "estado":"Inactivo"
+    },
+    {
+        "nombre":"Paola Benitez",
+        "correo":"paola.benitez42@gmail.com",
+        "contacto":"70000042",
+        "estado":"Activo"
+    },
+    {
+        "nombre":"Rafael Cabrera",
+        "correo":"rafael.cabrera43@gmail.com",
+        "contacto":"70000043",
+        "estado":"Activo"
+    },
+    {
+        "nombre":"Claudia Mendoza",
+        "correo":"claudia.mendoza44@gmail.com",
+        "contacto":"70000044",
+        "estado":"Inactivo"
+    },
+    {
+        "nombre":"Julio Sandoval",
+        "correo":"julio.sandoval45@gmail.com",
+        "contacto":"70000045",
+        "estado":"Activo"
+    },
+    {
+        "nombre":"Daniela Ponce",
+        "correo":"daniela.ponce46@gmail.com",
+        "contacto":"70000046",
+        "estado":"Activo"
+    },
+    {
+        "nombre":"Arturo Palma",
+        "correo":"arturo.palma47@gmail.com",
+        "contacto":"70000047",
+        "estado":"Inactivo"
+    },
+    {
+        "nombre":"Fernanda Acosta",
+        "correo":"fernanda.acosta48@gmail.com",
+        "contacto":"70000048",
+        "estado":"Activo"
+    },
+    {
+        "nombre":"Diego Espinoza",
+        "correo":"diego.espinoza49@gmail.com",
+        "contacto":"70000049",
+        "estado":"Activo"
+    },
+    {
+        "nombre":"Alejandra Navas",
+        "correo":"alejandra.navas50@gmail.com",
+        "contacto":"70000050",
+        "estado":"Inactivo"
+    }
+]
